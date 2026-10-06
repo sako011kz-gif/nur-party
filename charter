@@ -1,0 +1,557 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Устав — NUR</title>
+    <meta
+        name="description"
+        content="Официальный устав политической партии NUR."
+    >
+
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body class="inner-page">
+
+    <!-- HEADER -->
+
+    <header class="site-header inner-header">
+
+        <div class="header-inner">
+
+            <a href="index.html" class="brand">
+
+                <span class="brand-mark">N</span>
+
+                <span class="brand-text">
+                    <strong>NUR</strong>
+                    <small>OFFICIAL PARTY</small>
+                </span>
+
+            </a>
+
+
+            <nav class="main-nav">
+
+                <a href="charter.html" class="active">Устав</a>
+                <a href="leaders.html">Главы</a>
+                <a href="preferences.html">Преференции</a>
+                <a href="https://discord.gg/ТВОЯ_ССЫЛКА"
+                   target="_blank"
+                   rel="noopener noreferrer">
+                    Вступить
+                </a>
+                <a href="news.html">Новости</a>
+                <a href="documents.html">Документы</a>
+
+            </nav>
+
+
+            <a
+                href="https://discord.gg/ТВОЯ_ССЫЛКА"
+                class="header-cta"
+                target="_blank"
+                rel="noopener noreferrer"
+            >
+                Подать заявку
+                <span>↗</span>
+            </a>
+
+        </div>
+
+    </header>
+
+
+    <main>
+
+        <!-- PAGE HERO -->
+
+        <section class="inner-hero section-dark">
+
+            <div class="hero-grid"></div>
+
+            <div class="container inner-hero-content">
+
+                <div class="eyebrow">
+                    <span class="eyebrow-line"></span>
+                    NUR / OFFICIAL DOCUMENT
+                </div>
+
+                <div class="inner-page-number">
+                    DOCUMENT №01
+                </div>
+
+                <h1>
+                    Устав
+                    <span>партии.</span>
+                </h1>
+
+                <p>
+                    Основной документ, определяющий принципы,
+                    структуру, права и обязанности членов NUR.
+                </p>
+
+            </div>
+
+        </section>
+
+
+        <!-- CHARTER -->
+
+        <section class="charter-page section section-light">
+
+            <div class="container charter-page-layout">
+
+                <!-- SIDEBAR -->
+
+                <aside class="charter-sidebar">
+
+                    <div class="sidebar-label">
+                        СОДЕРЖАНИЕ
+                    </div>
+
+                    <nav class="charter-nav">
+
+                        <a href="#chapter-1">
+                            <span>01</span>
+                            Общие положения
+                        </a>
+
+                        <a href="#chapter-2">
+                            <span>02</span>
+                            Цели и принципы
+                        </a>
+
+                        <a href="#chapter-3">
+                            <span>03</span>
+                            Членство
+                        </a>
+
+                        <a href="#chapter-4">
+                            <span>04</span>
+                            Руководство
+                        </a>
+
+                        <a href="#chapter-5">
+                            <span>05</span>
+                            Права и обязанности
+                        </a>
+
+                        <a href="#chapter-6">
+                            <span>06</span>
+                            Заключительные положения
+                        </a>
+
+                    </nav>
+
+                    <div class="document-info">
+
+                        <span>ДОКУМЕНТ</span>
+                        <strong>NUR / 001</strong>
+
+                        <span>РЕДАКЦИЯ</span>
+                        <strong>01.01</strong>
+
+                        <span>СТАТУС</span>
+                        <strong>ДЕЙСТВУЕТ</strong>
+
+                    </div>
+
+                </aside>
+
+
+                <!-- CONTENT -->
+
+                <article class="charter-document">
+
+                    <div class="document-heading">
+
+                        <span>
+                            NUR — ПОЛИТИЧЕСКАЯ ПАРТИЯ
+                        </span>
+
+                        <span>
+                            ОФИЦИАЛЬНЫЙ ДОКУМЕНТ
+                        </span>
+
+                    </div>
+
+
+                    <div class="document-title">
+
+                        <span>УСТАВ</span>
+
+                        <h2>
+                            Политической партии NUR
+                        </h2>
+
+                        <p>
+                            Настоящий Устав определяет основные
+                            принципы деятельности партии NUR,
+                            её внутреннюю структуру и порядок
+                            взаимодействия участников.
+                        </p>
+
+                    </div>
+
+
+                    <!-- CHAPTER 1 -->
+
+                    <section
+                        class="charter-chapter"
+                        id="chapter-1"
+                    >
+
+                        <div class="chapter-number">
+                            ГЛАВА 01
+                        </div>
+
+                        <h3>
+                            Общие положения
+                        </h3>
+
+                        <p>
+                            Партия NUR является политическим
+                            объединением участников игрового
+                            государства, объединённых общими
+                            взглядами, целями и принципами.
+                        </p>
+
+                        <p>
+                            Деятельность партии основывается
+                            на принципах законности, ответственности,
+                            взаимного уважения и организованности.
+                        </p>
+
+                    </section>
+
+
+                    <!-- CHAPTER 2 -->
+
+                    <section
+                        class="charter-chapter"
+                        id="chapter-2"
+                    >
+
+                        <div class="chapter-number">
+                            ГЛАВА 02
+                        </div>
+
+                        <h3>
+                            Цели и принципы
+                        </h3>
+
+                        <p>
+                            Основной целью NUR является участие
+                            в политической и общественной жизни
+                            государства, а также содействие его
+                            развитию и стабильности.
+                        </p>
+
+                        <div class="chapter-list">
+
+                            <div>
+                                <span>01</span>
+                                <p>Единство участников</p>
+                            </div>
+
+                            <div>
+                                <span>02</span>
+                                <p>Стабильность государства</p>
+                            </div>
+
+                            <div>
+                                <span>03</span>
+                                <p>Ответственное управление</p>
+                            </div>
+
+                            <div>
+                                <span>04</span>
+                                <p>Развитие общества</p>
+                            </div>
+
+                        </div>
+
+                    </section>
+
+
+                    <!-- CHAPTER 3 -->
+
+                    <section
+                        class="charter-chapter"
+                        id="chapter-3"
+                    >
+
+                        <div class="chapter-number">
+                            ГЛАВА 03
+                        </div>
+
+                        <h3>
+                            Членство
+                        </h3>
+
+                        <p>
+                            Членами партии могут стать участники,
+                            разделяющие ценности NUR и готовые
+                            соблюдать положения настоящего Устава.
+                        </p>
+
+                        <p>
+                            Вступление в организацию осуществляется
+                            в установленном партией порядке.
+                        </p>
+
+                    </section>
+
+
+                    <!-- CHAPTER 4 -->
+
+                    <section
+                        class="charter-chapter"
+                        id="chapter-4"
+                    >
+
+                        <div class="chapter-number">
+                            ГЛАВА 04
+                        </div>
+
+                        <h3>
+                            Руководство
+                        </h3>
+
+                        <p>
+                            Высшим должностным лицом партии является
+                            председатель NUR.
+                        </p>
+
+                        <div class="leadership-block">
+
+                            <div>
+                                <span>ПРЕДСЕДАТЕЛЬ</span>
+                                <strong>Demi Aana</strong>
+                            </div>
+
+                            <div>
+                                <span>ЗАМЕСТИТЕЛИ</span>
+                                <strong>03</strong>
+                            </div>
+
+                        </div>
+
+                        <p>
+                            Председатель осуществляет общее руководство
+                            деятельностью партии и координирует работу
+                            её руководящих органов.
+                        </p>
+
+                    </section>
+
+
+                    <!-- CHAPTER 5 -->
+
+                    <section
+                        class="charter-chapter"
+                        id="chapter-5"
+                    >
+
+                        <div class="chapter-number">
+                            ГЛАВА 05
+                        </div>
+
+                        <h3>
+                            Права и обязанности
+                        </h3>
+
+                        <p>
+                            Каждый участник партии имеет право принимать
+                            участие в деятельности организации,
+                            высказывать предложения и получать информацию
+                            о её деятельности.
+                        </p>
+
+                        <p>
+                            Члены партии обязаны соблюдать настоящий
+                            Устав, уважать других участников и выполнять
+                            принятые организацией решения.
+                        </p>
+
+                    </section>
+
+
+                    <!-- CHAPTER 6 -->
+
+                    <section
+                        class="charter-chapter"
+                        id="chapter-6"
+                    >
+
+                        <div class="chapter-number">
+                            ГЛАВА 06
+                        </div>
+
+                        <h3>
+                            Заключительные положения
+                        </h3>
+
+                        <p>
+                            Настоящий Устав вступает в силу после его
+                            утверждения руководством партии NUR.
+                        </p>
+
+                        <p>
+                            Изменения и дополнения к Уставу могут
+                            приниматься в установленном организацией
+                            порядке.
+                        </p>
+
+                    </section>
+
+
+                    <div class="document-signature">
+
+                        <div>
+                            <span>
+                                УТВЕРЖДЕНО
+                            </span>
+
+                            <strong>
+                                Руководством NUR
+                            </strong>
+                        </div>
+
+                        <div>
+                            <span>
+                                ПРЕДСЕДАТЕЛЬ
+                            </span>
+
+                            <strong>
+                                Demi Aana
+                            </strong>
+                        </div>
+
+                    </div>
+
+                </article>
+
+            </div>
+
+        </section>
+
+
+        <!-- CTA -->
+
+        <section class="document-cta section-dark">
+
+            <div class="container document-cta-inner">
+
+                <div>
+                    <span>
+                        NUR / MEMBERSHIP
+                    </span>
+
+                    <h2>
+                        Готовы присоединиться?
+                    </h2>
+                </div>
+
+                <a
+                    href="https://discord.gg/ТВОЯ_ССЫЛКА"
+                    class="button button-primary"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                >
+                    Перейти в Discord
+                    <span>↗</span>
+                </a>
+
+            </div>
+
+        </section>
+
+    </main>
+
+
+    <!-- FOOTER -->
+
+    <footer class="footer">
+
+        <div class="container footer-top">
+
+            <div class="footer-brand">
+
+                <a href="index.html" class="brand footer-brand-link">
+
+                    <span class="brand-mark">N</span>
+
+                    <span class="brand-text">
+                        <strong>NUR</strong>
+                        <small>OFFICIAL PARTY</small>
+                    </span>
+
+                </a>
+
+                <p>
+                    Официальный портал игровой политической
+                    партии NUR.
+                </p>
+
+            </div>
+
+
+            <div class="footer-links">
+
+                <div class="footer-column">
+
+                    <span>РАЗДЕЛЫ</span>
+
+                    <a href="index.html">Главная</a>
+                    <a href="charter.html">Устав</a>
+                    <a href="leaders.html">Главы</a>
+
+                </div>
+
+
+                <div class="footer-column">
+
+                    <span>ИНФОРМАЦИЯ</span>
+
+                    <a href="preferences.html">Преференции</a>
+                    <a href="news.html">Новости</a>
+                    <a href="documents.html">Документы</a>
+
+                </div>
+
+
+                <div class="footer-column">
+
+                    <span>ВСТУПЛЕНИЕ</span>
+
+                    <a
+                        href="https://discord.gg/ТВОЯ_ССЫЛКА"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                    >
+                        Discord
+                    </a>
+
+                </div>
+
+            </div>
+
+        </div>
+
+
+        <div class="container footer-bottom">
+
+            <span>© 2026 NUR</span>
+            <span>GAME WORLD ORGANIZATION</span>
+            <span>OFFICIAL PORTAL</span>
+
+        </div>
+
+    </footer>
+
+</body>
+</html>
